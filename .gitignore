@@ -31,7 +31,7 @@ xrun.history
 # Srodowiska i IDE (VS Code / DVT)
 # =========================
 .vscode/
-.dvt/*.auto.*
+.dvt/
 dvt_build.log
 
 # =========================
